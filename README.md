@@ -14,9 +14,8 @@ A lo largo de este portafolio, podrás explorar algunos proyectos, con especial 
 
 # Proyectos que puedes encontrar en mi portfolio 
 
-## :bulb: [SuaLib: Libreria para análisis de datos geoespaciales](https://github.com/PatriciaL/sua_lib) {:target="_blank"}
 
-<a href="https://github.com/PatriciaL/sua_lib" target="_blank">SuaLib: Libreria para análisis de datos geoespaciales</a>
+## :bulb: <a href="https://github.com/PatriciaL/sua_lib" target="_blank">SuaLib: Libreria para análisis de datos geoespaciales</a>
 
 
 Sua quiere decir "fuego" en Euskera. Prometeo, trajo el fuego a los hombres, con Sua pretendo desarrollar un paquete completo que permita obtener conocimiento a través del análisis geográfico de datos. 
