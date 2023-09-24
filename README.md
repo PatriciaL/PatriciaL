@@ -12,7 +12,7 @@ Mi carrera profesional se ha desarrollado en diversos frentes, desde trabajar di
 A lo largo de este portafolio, podrás explorar algunos proyectos, con especial foco en data science.
 ¡Gracias por visitar y conocer más sobre mi experiencia y pasión por el mundo digital y los datos!
 
-## Proyectos que puedes encontrar
+## Proyectos que puedes encontrar en mi portfolio 
 
 ### [SuaLib: Libreria para análisis de datos geoespaciales](https://github.com/PatriciaL/sua_lib)
 
@@ -20,10 +20,47 @@ Sua quiere decir "fuego" en Euskera. Prometeo, trajo el fuego a los hombres, con
 Este sencillo paquete de python obtiene un geodataframe basado en objetos geométricos de tipo punto, además de diferentes funciones, que nos permitirán crear el data set, limpiar los datos y prepararlos, con un EDA previo y la posibilidad de desarrollar un modelo de regresión lineal que permita predecir las aperturas en tienda física de un cliente pertenenciente al retail. 
 La libreria está separada en distintos módulos, de manera que se pueden añadir diferentes casos de uso según se requiera.
 
+### ChurnCatcher Pro: Predicción de Abandono de Clientes
 
-### Proyecto 2: Nombre del Proyecto
+Evita la pérdida de clientes anticipándote a su posible abandono con análisis de datos avanzados y modelos predictivos.
 
-Descripción breve del proyecto y sus objetivos. Puedes incluir enlaces a la página del proyecto, el repositorio de GitHub y capturas de pantalla.
+### RFM Insight: Análisis Profundo de Clientes
+
+Descubre quiénes son tus clientes más valiosos y comprende su comportamiento mediante el análisis de Recencia, Frecuencia y Valor Monetario.
+
+### ClusterCraft: Segmentación Magistral de Clientes
+
+Divide tu base de clientes en grupos homogéneos para personalizar tus estrategias de marketing y mejorar la retención.
+
+### TextMinds: Análisis y Generación de Contenido Inteligente
+
+Obtén ideas y contenido relevante a partir del análisis de texto avanzado para mantener a tu audiencia comprometida.
+
+### SubsForecast: Predicción de la Demanda de Suscripciones
+
+Planifica tus recursos de manera eficiente prediciendo la demanda futura de suscripciones y servicios.
+
+### GeoSight: Exploración de Datos Geoespaciales
+
+Visualiza y analiza datos en un contexto geográfico para tomar decisiones basadas en la ubicación.
+
+### SocialNetSage: Sabiduría en Redes Sociales y Modelado
+
+Optimiza tu presencia en redes sociales y comprende la dinámica de tu audiencia con análisis y modelado avanzados.
+
+### UTM pyGenie: Herramienta Python para UTM y Detección de Errores
+
+Simplifica la gestión de enlaces UTM y detecta errores en tus campañas de seguimiento de marketing con una poderosa biblioteca Python.
+
+### CampAttributor: Análisis de Atribución de Campañas
+
+Atribuye el éxito de tus campañas de marketing a las estrategias adecuadas para optimizar tu presupuesto publicitario.
+  
+### SalesProphet: Predicción Maestra de Ventas
+
+Mejora tus estrategias de ventas con pronósticos precisos que te ayudarán a alcanzar tus metas de ventas de manera efectiva.
+
+
 
 ## [Experiencia Profesional](https://www.linkedin.com/in/patricialafuente/)
 
