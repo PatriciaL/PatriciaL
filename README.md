@@ -13,7 +13,7 @@ Descripción breve del proyecto y sus objetivos. Puedes incluir enlaces a la pá
 
 Descripción breve del proyecto y sus objetivos. Puedes incluir enlaces a la página del proyecto, el repositorio de GitHub y capturas de pantalla.
 
-## Experiencia Laboral
+## [Experiencia Profesional](https://www.linkedin.com/in/patricialafuente/)
 
 ### Empresa 1
 
