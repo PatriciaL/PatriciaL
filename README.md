@@ -24,39 +24,39 @@ La libreria está separada en distintos módulos, de manera que se pueden añadi
 
 Evita la pérdida de clientes anticipándote a su posible abandono con análisis de datos avanzados y modelos predictivos.
 
-### :bulb: RFM Insight: Análisis Profundo de Clientes
+### :bulb: [RFM Insight: Análisis Profundo de Clientes](https://github.com/PatriciaL/rfm-analysis)
 
 Descubre quiénes son tus clientes más valiosos y comprende su comportamiento mediante el análisis de Recencia, Frecuencia y Valor Monetario.
 
-### :bulb: ClusterCraft: Segmentación Magistral de Clientes
+### :bulb: [ClusterCraft: Segmentación Magistral de Clientes](https://github.com/PatriciaL/cluster-craft)
 
 Divide tu base de clientes en grupos homogéneos para personalizar tus estrategias de marketing y mejorar la retención.
 
-### TextMinds: Análisis y Generación de Contenido Inteligente
+### [TextMinds: Análisis y Generación de Contenido Inteligente](https://github.com/PatriciaL/text-minds)
 
 Obtén ideas y contenido relevante a partir del análisis de texto avanzado para mantener a tu audiencia comprometida.
 
-### :bulb: SubsForecast: Predicción de la Demanda de Suscripciones
+### :bulb: [SubsForecast: Predicción de la Demanda de Suscripciones](https://github.com/PatriciaL/sub-forecast-subscription)
 
 Planifica tus recursos de manera eficiente prediciendo la demanda futura de suscripciones y servicios.
 
-### :bulb: GeoSight: Exploración de Datos Geoespaciales
+### :bulb: [GeoSight: Exploración de Datos Geoespaciales](https://github.com/PatriciaL/geo-sight)
 
 Visualiza y analiza datos en un contexto geográfico para tomar decisiones basadas en la ubicación.
 
-### :bulb: SocialNetSage: Sabiduría en Redes Sociales y Modelado
+### :bulb: [SocialNetSage: Sabiduría en Redes Sociales y Modelado](https://github.com/PatriciaL/social-set-sage)
 
 Optimiza tu presencia en redes sociales y comprende la dinámica de tu audiencia con análisis y modelado avanzados.
 
-### :bulb: UTM pyGenie: Herramienta Python para UTM y Detección de Errores
+### :bulb: [UTM pyGenie: Herramienta Python para UTM y Detección de Errores](https://github.com/PatriciaL/utm-pygenie)
 
 Simplifica la gestión de enlaces UTM y detecta errores en tus campañas de seguimiento de marketing con una poderosa biblioteca Python.
 
-### :bulb: CampAttributor: Análisis de Atribución de Campañas
+### :bulb: [CampAttributor: Análisis de Atribución de Campañas & Marketing Mix Modelling (https://github.com/PatriciaL/camp-attributor)
 
 Atribuye el éxito de tus campañas de marketing a las estrategias adecuadas para optimizar tu presupuesto publicitario.
   
-### :bulb: SalesProphet: Predicción Maestra de Ventas
+### :bulb:[SalesProphet: Predicción Maestra de Ventas](https://github.com/PatriciaL/sales-prophet)
 
 Mejora tus estrategias de ventas con pronósticos precisos que te ayudarán a alcanzar tus metas de ventas de manera efectiva.
 
@@ -85,22 +85,22 @@ Mejora tus estrategias de ventas con pronósticos precisos que te ayudarán a al
 
 ## Educación
 
-- **Grado:** Ciencia de Datos Aplicada
-- **Institución:** Universidad Oberta Catalunya
-- **Fecha de Graduación:** (En Curso)
+  **Grado:** Ciencia de Datos Aplicada
+  **Institución:** Universidad Oberta Catalunya
+  **Fecha de Graduación:** (En Curso)
   
-- **Licenciatura:** Publicidad y Relaciones Públicas
-- **Institución:** Universidad Rey Juan Carlos
-- **Fecha de Graduación:** Junio 2011
+  **Licenciatura:** Publicidad y Relaciones Públicas
+  **Institución:** Universidad Rey Juan Carlos
+  **Fecha de Graduación:** Junio 2011
 
-- **Diplomatura:** Turismo
-- **Institución:** Universidad de Oviedo
-- **Fecha de Graduación:** Junio 2008
+  **Diplomatura:** Turismo
+  **Institución:** Universidad de Oviedo
+  **Fecha de Graduación:** Junio 2008
 
 ## Habilidades Técnicas
 
 - SQL
-- Python
+  Python
 - DAX
 - PowerBI, Tableau, Looker Studio
 - Data strategy, ETL, ELT, BigQuery, Google Cloud
