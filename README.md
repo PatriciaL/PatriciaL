@@ -1,18 +1,11 @@
-- 👋 Hi, I’m @Patricia_Lafuente
-- 👀 I’m interested in ...learning about advance data analytics, brand, business and how data give us the possibility to take decisions.
-- 🌱 I’m currently learning ... data science
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... e-mail: p.lafuente.est@gmail.com
 
-# Mi Portafolio
+# About
 
-¡Bienvenido a mi portafolio! Soy [Tu Nombre], y aquí encontrarás una muestra de mi trabajo y proyectos.
+¡Bienvenido a mi portafolio! Soy Patricia, y aquí encontrarás una muestra de mi trabajo y proyectos en los que he ido trabajando entorno a datos y análisis tanto descriptivos como prescriptivos.
 
-![Imagen de Portafolio](URL_DE_LA_IMAGEN)
+## Proyectos que puedes encontrar
 
-## Proyectos Destacados
-
-### Proyecto 1: Nombre del Proyecto
+### SuaLib: Libreria para análisis de datos geoespaciales
 
 Descripción breve del proyecto y sus objetivos. Puedes incluir enlaces a la página del proyecto, el repositorio de GitHub y capturas de pantalla.
 
