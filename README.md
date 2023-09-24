@@ -16,6 +16,9 @@ A lo largo de este portafolio, podrás explorar algunos proyectos, con especial 
 
 ## :bulb: [SuaLib: Libreria para análisis de datos geoespaciales](https://github.com/PatriciaL/sua_lib) {:target="_blank"}
 
+<a href="https://github.com/PatriciaL/sua_lib" target="_blank">SuaLib: Libreria para análisis de datos geoespaciales</a>
+
+
 Sua quiere decir "fuego" en Euskera. Prometeo, trajo el fuego a los hombres, con Sua pretendo desarrollar un paquete completo que permita obtener conocimiento a través del análisis geográfico de datos. 
 Este sencillo paquete de python obtiene un geodataframe basado en objetos geométricos de tipo punto, además de diferentes funciones, que nos permitirán crear el data set, limpiar los datos y prepararlos, con un EDA previo y la posibilidad de desarrollar un modelo de regresión lineal que permita predecir las aperturas en tienda física de un cliente pertenenciente al retail. 
 La libreria está separada en distintos módulos, de manera que se pueden añadir diferentes casos de uso según se requiera.
