@@ -27,32 +27,50 @@ Descripción breve del proyecto y sus objetivos. Puedes incluir enlaces a la pá
 
 ## [Experiencia Profesional](https://www.linkedin.com/in/patricialafuente/)
 
-### Empresa 1
+### RBA Group
 
-- **Cargo:** Tu cargo
-- **Fecha:** Fecha de inicio - Fecha de finalización
-- **Descripción:** Descripción de tus responsabilidades y logros en la empresa.
+- **Cargo:** Data Leader
+- **Fecha:** Junio 2023 - Actualmente
+- **Descripción:** Liderazgo del equipo de analítica digital, siendo responsable de la recogida, almacenamiento de los análisis de datos de la actividad de la empresa y de sus distintos activos digitales, dando soporte a las unidades de negocio y asesoramiento para el seguimiento de KPIs. 
 
-### Empresa 2
+### JAKALA IBERIA
 
-- **Cargo:** Tu cargo
-- **Fecha:** Fecha de inicio - Fecha de finalización
-- **Descripción:** Descripción de tus responsabilidades y logros en la empresa.
+- **Cargo:** Senior Analytics Consultant
+- **Fecha:** Noviembre 2022 - Mayo 2023
+- **Descripción:** Definición de cuadros de mando, implementaciones técnicas en Google Analytics 4, asesoramiento a clientes en procesos de auditoria de proyectos digitales.
+
+
+### PRONOVIAS GROUP
+
+- **Cargo:** Digital & Insight Analytics Manager
+- **Fecha:** Agosto 2020 - Noviembre 2022
+- **Descripción:** Analytics & Insight management en empresa de sector retail/nupcial como manager de insights y datos para el área digital de la empresa.
 
 ## Educación
 
-- **Grado:** Nombre del grado
-- **Institución:** Nombre de la institución
-- **Fecha de Graduación:** Fecha de graduación
+- **Grado:** Ciencia de Datos Aplicada
+- **Institución:** Universidad Oberta Catalunya
+- **Fecha de Graduación:** (En Curso)
+  
+- **Licenciatura:** Publicidad y Relaciones Públicas
+- **Institución:** Universidad Rey Juan Carlos
+- **Fecha de Graduación:** Junio 2011
+
+- **Diplomatura:** Turismo
+- **Institución:** Universidad de Oviedo
+- **Fecha de Graduación:** Junio 2008
 
 ## Habilidades Técnicas
 
-- Habilidad 1
-- Habilidad 2
-- Habilidad 3
+- SQL
+- Python
+- DAX
+- PowerBI, Tableau, Looker Studio
+- Data strategy, ETL, ELT, BigQuery, Google Cloud
+  
 
 ## Contacto
 
-Puedes contactarme en [correo electrónico](mailto:tu@email.com) o a través de mi perfil de [LinkedIn](https://www.linkedin.com/in/tu-perfil).
+Puedes contactarme en [correo electrónico](mailto:p.lafuente.est@gmail.com) o a través de mi perfil de [LinkedIn](https://www.linkedin.com/in/patricialafuente/).
 
 ¡Gracias por visitar mi portafolio!
