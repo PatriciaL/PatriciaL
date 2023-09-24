@@ -12,57 +12,56 @@ Mi carrera profesional se ha desarrollado en diversos frentes, desde trabajar di
 A lo largo de este portafolio, podrás explorar algunos proyectos, con especial foco en data science.
 ¡Gracias por visitar y conocer más sobre mi experiencia y pasión por el mundo digital y los datos!
 
-## Proyectos que puedes encontrar en mi portfolio 
+# Proyectos que puedes encontrar en mi portfolio 
 
-### :bulb: [SuaLib: Libreria para análisis de datos geoespaciales](https://github.com/PatriciaL/sua_lib)
+## :bulb: [SuaLib: Libreria para análisis de datos geoespaciales](https://github.com/PatriciaL/sua_lib){:target="_blank"}
 
 Sua quiere decir "fuego" en Euskera. Prometeo, trajo el fuego a los hombres, con Sua pretendo desarrollar un paquete completo que permita obtener conocimiento a través del análisis geográfico de datos. 
 Este sencillo paquete de python obtiene un geodataframe basado en objetos geométricos de tipo punto, además de diferentes funciones, que nos permitirán crear el data set, limpiar los datos y prepararlos, con un EDA previo y la posibilidad de desarrollar un modelo de regresión lineal que permita predecir las aperturas en tienda física de un cliente pertenenciente al retail. 
 La libreria está separada en distintos módulos, de manera que se pueden añadir diferentes casos de uso según se requiera.
 
-### :bulb: ChurnCatcher Pro: Predicción de Abandono de Clientes
+## :bulb: [ChurnCatcher Pro: Predicción de Abandono de Clientes](https://github.com/PatriciaL/churn-catcher.git){:target="_blank"}
 
 Evita la pérdida de clientes anticipándote a su posible abandono con análisis de datos avanzados y modelos predictivos.
 
-### :bulb: [RFM Insight: Análisis Profundo de Clientes](https://github.com/PatriciaL/rfm-analysis)
+## :bulb: [RFM Insight: Análisis Profundo de Clientes](https://github.com/PatriciaL/rfm-analysis){:target="_blank"}
 
 Descubre quiénes son tus clientes más valiosos y comprende su comportamiento mediante el análisis de Recencia, Frecuencia y Valor Monetario.
 
-### :bulb: [ClusterCraft: Segmentación Magistral de Clientes](https://github.com/PatriciaL/cluster-craft)
+## :bulb: [ClusterCraft: Segmentación Magistral de Clientes](https://github.com/PatriciaL/cluster-craft){:target="_blank"}
 
 Divide tu base de clientes en grupos homogéneos para personalizar tus estrategias de marketing y mejorar la retención.
 
-### [TextMinds: Análisis y Generación de Contenido Inteligente](https://github.com/PatriciaL/text-minds)
+## :bulb: [TextMinds: Analisis y generación de contenido inteligente](https://github.com/PatriciaL/text-minds) {:target="_blank"}
 
 Obtén ideas y contenido relevante a partir del análisis de texto avanzado para mantener a tu audiencia comprometida.
 
-### :bulb: [SubsForecast: Predicción de la Demanda de Suscripciones](https://github.com/PatriciaL/sub-forecast-subscription)
+## :bulb: [SubsForecast: Predicción de la Demanda de Suscripciones](https://github.com/PatriciaL/sub-forecast-subscription){:target="_blank"}
 
 Planifica tus recursos de manera eficiente prediciendo la demanda futura de suscripciones y servicios.
 
-### :bulb: [GeoSight: Exploración de Datos Geoespaciales](https://github.com/PatriciaL/geo-sight)
+## :bulb: [GeoSight: Exploración de Datos Geoespaciales](https://github.com/PatriciaL/geo-sight){:target="_blank"}
 
 Visualiza y analiza datos en un contexto geográfico para tomar decisiones basadas en la ubicación.
 
-### :bulb: [SocialNetSage: Sabiduría en Redes Sociales y Modelado](https://github.com/PatriciaL/social-set-sage)
+## :bulb: [SocialNetSage: Sabiduría en Redes Sociales y Modelado](https://github.com/PatriciaL/social-set-sage){:target="_blank"}
 
 Optimiza tu presencia en redes sociales y comprende la dinámica de tu audiencia con análisis y modelado avanzados.
 
-### :bulb: [UTM pyGenie: Herramienta Python para UTM y Detección de Errores](https://github.com/PatriciaL/utm-pygenie)
+## :bulb: [UTM pyGenie: Herramienta Python para UTM y Detección de Errores](https://github.com/PatriciaL/utm-pygenie){:target="_blank"}
 
 Simplifica la gestión de enlaces UTM y detecta errores en tus campañas de seguimiento de marketing con una poderosa biblioteca Python.
 
-### :bulb: [CampAttributor: Análisis de Atribución de Campañas & Marketing Mix Modelling (https://github.com/PatriciaL/camp-attributor)
+## :bulb: [CampAttributor: Análisis de Atribución de Campañas & Marketing Mix Modelling (https://github.com/PatriciaL/camp-attributor){:target="_blank"}
 
 Atribuye el éxito de tus campañas de marketing a las estrategias adecuadas para optimizar tu presupuesto publicitario.
   
-### :bulb:[SalesProphet: Predicción Maestra de Ventas](https://github.com/PatriciaL/sales-prophet)
+## :bulb:[SalesProphet: Predicción Maestra de Ventas](https://github.com/PatriciaL/sales-prophet){:target="_blank"}
 
 Mejora tus estrategias de ventas con pronósticos precisos que te ayudarán a alcanzar tus metas de ventas de manera efectiva.
 
 
-
-## [Experiencia Profesional](https://www.linkedin.com/in/patricialafuente/)
+# [Experiencia Profesional](https://www.linkedin.com/in/patricialafuente/){:target="_blank"}
 
 ### RBA Group
 
@@ -83,7 +82,7 @@ Mejora tus estrategias de ventas con pronósticos precisos que te ayudarán a al
 - **Fecha:** Agosto 2020 - Noviembre 2022
 - **Descripción:** Analytics & Insight management en empresa de sector retail/nupcial como manager de insights y datos para el área digital de la empresa.
 
-## Educación
+# Educación
 
   **Grado:** Ciencia de Datos Aplicada
   **Institución:** Universidad Oberta Catalunya
@@ -106,8 +105,8 @@ Mejora tus estrategias de ventas con pronósticos precisos que te ayudarán a al
 - Data strategy, ETL, ELT, BigQuery, Google Cloud
   
 
-## Contacto
+# Contacto
 
-Puedes contactarme en [correo electrónico](mailto:p.lafuente.est@gmail.com) o a través de mi perfil de [LinkedIn](https://www.linkedin.com/in/patricialafuente/).
+Puedes contactarme en [correo electrónico](mailto:p.lafuente.est@gmail.com) o a través de mi perfil de [LinkedIn](https://www.linkedin.com/in/patricialafuente/){:target="_blank"}.
 
 ¡Gracias por visitar mi portafolio!
